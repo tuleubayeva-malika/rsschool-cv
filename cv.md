@@ -1,4 +1,4 @@
-[rsschool-cv](http://example.com/)
+[rsschool-cv](https://tuleubayeva-malika.github.io/rsschool-cv-new/)
 
 # Malika Tuleubayeva #
 ## Ad Operation Manager ##
