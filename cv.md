@@ -1,5 +1,5 @@
 [rsschool-cv](http://example.com/)
-***
+
 # Malika Tuleubayeva #
 ## Ad Operation Manager ##
 
